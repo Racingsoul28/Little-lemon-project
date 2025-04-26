@@ -1,0 +1,14 @@
+{
+  "contexts": {
+    "Pages": [
+      "about.html",
+      "index.html",
+      "menu.html",
+      "table.html"
+    ]
+  },
+  "configs": {
+    "showFolders": false,
+    "orderAlphabetically": true
+  }
+}

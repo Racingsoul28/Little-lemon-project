@@ -1,0 +1,37 @@
+label{
+    padding: 5px;
+}
+form > div {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-content: center;
+    margin: 10px 50px;
+}
+form div > input{
+    border: 1px solid #495e57;
+    border-radius: 5px;
+    padding: 5px;
+}
+button{
+    font-size: 1rem;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #495e57;
+    cursor: pointer;
+    color: #f4ce14;
+    background-color: #495e57;
+}
+button:hover{
+    border: 1px solid #495e57;
+    color: #495e57;
+    background-color: #f4ce14;
+}
+button:active{
+    border: 1px solid #495e57;
+    color: #f4ce14;
+    background-color: #495e57;
+}
+form{
+    font-weight: bold;
+}
